@@ -8,7 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    var number = 123
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
