@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    var number = 123
+    var number = 12345
     
     override func viewDidLoad() {
         super.viewDidLoad()
